@@ -65,7 +65,7 @@ const StickyAnchorNav = () => {
             {/* Logo */}
             <div className="flex items-center">
               <div className="text-xl font-bold text-foreground">
-                Adarsh Pandit
+                Arinova Studio
               </div>
             </div>
 

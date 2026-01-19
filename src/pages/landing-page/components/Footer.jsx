@@ -59,7 +59,7 @@ const Footer = () => {
                   <Icon name="Code" size={24} className="text-white" />
                 </div>
                 <div>
-                  <h3 className="text-xl font-bold text-foreground">Adarsh Pandit</h3>
+                  <h3 className="text-xl font-bold text-foreground">Arinova Studio</h3>
                   <p className="text-sm text-muted-foreground">Full-Stack Developer</p>
                 </div>
               </div>
@@ -178,7 +178,7 @@ const Footer = () => {
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             {/* Copyright */}
             <div className="text-sm text-muted-foreground">
-              © {currentYear} Adarsh Pandit. All rights reserved.
+              © {currentYear} Arinova Studio. All rights reserved.
             </div>
 
             {/* Tech Stack Badge */}

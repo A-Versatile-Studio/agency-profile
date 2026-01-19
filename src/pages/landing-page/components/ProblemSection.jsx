@@ -156,7 +156,7 @@ const ProblemSection = () => {
               <div className="inline-flex items-center justify-center w-16 h-16 bg-success/10 rounded-full mb-4">
                 <Icon name="CheckCircle" size={32} className="text-success" />
               </div>
-              <h3 className="text-2xl font-bold text-foreground mb-2">Adarsh Pandit Solution</h3>
+              <h3 className="text-2xl font-bold text-foreground mb-2">Arinova Studio Solution</h3>
               <p className="text-muted-foreground">One developer, infinite possibilities</p>
             </div>
 
